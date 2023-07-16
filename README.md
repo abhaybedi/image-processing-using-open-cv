@@ -1,7 +1,7 @@
 # image-processing-using-open-cv
-implementation of all popular open cv functions and more in one file with relevant explanation
+*implementation of all popular open cv functions and more in one file with relevant explanation*
 
-Basic Image Processing using cv2 functions:
+**Basic Image Processing using cv2 functions:**
 
 1.Converting Image to Grayscale
 
@@ -27,7 +27,7 @@ In OpenCV it is implemented with the function HoughLinesP()
 
 
 
-Basic Image Processing using Scikit Image:
+**Basic Image Processing using Scikit Image:**
 
 1.Printing the image in the form of matrix
 
@@ -44,8 +44,11 @@ Basic Image Processing using Scikit Image:
 7.Printing the Blue Channel of the Image
 
 8.Printing the Grayscale of the Image
+
 9.Flipping the Image
+
 10.Histrograms of different colour Chanels
+
 11.Image Conversion (jpg to png and stuff)
 
 
